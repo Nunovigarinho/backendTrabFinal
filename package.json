@@ -1,0 +1,26 @@
+{
+  "name": "backendtrabfinal",
+  "version": "1.0.0",
+  "description": "Backend do trabalho final",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nunovigarinho/backendTrabFinal.git"
+  },
+  "author": "Nuno Vigarinho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nunovigarinho/backendTrabFinal/issues"
+  },
+  "homepage": "https://github.com/Nunovigarinho/backendTrabFinal#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mysql2": "^3.11.3"
+  }
+}
